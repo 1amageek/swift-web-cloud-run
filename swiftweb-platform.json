@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "cloud-run",
+  "name": "SwiftWeb Cloud Run",
+  "templates": {
+    "new": {
+      "path": "templates/new"
+    },
+    "named": {
+      "chat": {
+        "path": "templates/chat"
+      }
+    }
+  },
+  "capabilities": {
+    "scaffold": true,
+    "build": false,
+    "deploy": false
+  }
+}
+

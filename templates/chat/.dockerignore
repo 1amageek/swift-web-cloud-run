@@ -1,0 +1,9 @@
+.build
+.swiftpm
+.swiftweb/generated/.build
+.swiftweb/generated/**/.build
+.git
+.DS_Store
+sweb-dev.log
+deploy/cloudflare/node_modules
+
